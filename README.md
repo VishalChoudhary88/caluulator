@@ -1,2 +1,2 @@
-# caluulator
+# calculator
 i am very happyt
